@@ -1,0 +1,4 @@
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Client\obj\Debug\netstandard2.0\BlazorAspCore.Client.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Client\obj\Debug\netstandard2.0\BlazorAspCore.Client.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Client\obj\Debug\netstandard2.0\BlazorAspCore.Client.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Client\obj\Debug\netstandard2.0\BlazorAspCore.Client.AssemblyInfo.cs

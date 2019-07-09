@@ -1,0 +1,9 @@
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\netstandard2.0\BlazorAspCore.Shared.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\netstandard2.0\BlazorAspCore.Shared.dll
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\bin\Debug\netstandard2.0\BlazorAspCore.Shared.pdb
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\netstandard2.0\BlazorAspCore.Shared.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\netstandard2.0\BlazorAspCore.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\netstandard2.0\BlazorAspCore.Shared.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\netstandard2.0\BlazorAspCore.Shared.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\netstandard2.0\BlazorAspCore.Shared.dll
+C:\Users\Nemanja Djordjevic\source\repos\BlazorAspCore\BlazorAspCore.Shared\obj\Debug\netstandard2.0\BlazorAspCore.Shared.pdb
